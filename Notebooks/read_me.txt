@@ -1,1 +1,1 @@
-
+This folder contains Machine Learning notes and practical Jupyter Notebooks created and maintained by Anshum Banga. These resources are intended to help students understand concepts, practice code, and learn Machine Learning step by step. All materials are the personal intellectual property of Anshum Banga. Please give proper credit before using or sharing them.
